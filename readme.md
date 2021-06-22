@@ -1,0 +1,1 @@
+Clean, prepare and do some feature engineering on a dataframe containing scores of NCAA basketball games. `Games.csv` & `Teams.csv` come from the Manning "Deep Learning for Basketball Scores Prediction" project. Besides a keras NN, a fastai TabularLearner and a XGBoost model are trained for comparison.
